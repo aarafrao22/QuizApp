@@ -1,0 +1,2 @@
+rootProject.name='ECAT MCAT Test Preparation'
+include ':app'
